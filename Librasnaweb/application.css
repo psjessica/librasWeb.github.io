@@ -1,0 +1,15 @@
+body {
+  width: 97%;
+  margin:auto;
+  element.style;
+    padding: 3px;
+  background: url(bk.png) center;
+
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+}
+main {
+  background: orange;
+  border-radius: 11;
+    border-radius: 7px;
+}
